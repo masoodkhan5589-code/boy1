@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="images">
+    <file>statics/debug.png</file>
+    <file>statics/search.png</file>
+    <file>statics/refresh.png</file>
+    <file>statics/loading.gif</file>
+    <file>statics/account.png</file>
+    <file>statics/copy.png</file>
+    <file>statics/delete.png</file>
+    <file>statics/filter.png</file>
+    <file>statics/import.png</file>
+    <file>statics/select-all.png</file>
+    <file>statics/uncheck-all.png</file>
+    <file>statics/settings.png</file>
+    <file>statics/start.png</file>
+    <file>statics/stop.png</file>
+    <file>statics/android.png</file>
+    <file>statics/facebook.png</file>
+    <file>statics/facebook-logo.png</file>
+    <file>statics/instagram.png</file>
+  </qresource>
+</RCC>
